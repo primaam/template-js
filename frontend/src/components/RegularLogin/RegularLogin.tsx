@@ -8,6 +8,7 @@ const RegularLogin: React.FC = () => {
         <div className={styles.container}>
             <div className={styles.subContainer}>
                 <div className={styles.formContainer}>
+                    <h1>Login Form</h1>
                     <form>
                         <input placeholder="Username" />
 
